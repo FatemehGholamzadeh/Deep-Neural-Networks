@@ -3,4 +3,4 @@ Projects of Neural Networks Graduate Course under Supervision of Prof. Reza Safa
 
 ## Project 1:
 * Goal: getting familiar with multi-layer perceptron neural networks.
-In this project we worked on “seeds” dataset. First we examine the linear separability. Then we try to classify these data using multi-layer perceptron and our goal is to find best structure for network which reaches highest accuracy. We also get familiar with concept of overfitting and regularization by trying to overfit neural network on dataset. Finally, we operate regularization on dataset in order to remove overfitting effect.
+* In this project we worked on “seeds” dataset. First we examine the linear separability. Then we try to classify these data using multi-layer perceptron and our goal is to find best structure for network which reaches highest accuracy. We also get familiar with concept of overfitting and regularization by trying to overfit neural network on dataset. Finally, we operate regularization on dataset in order to remove overfitting effect.
