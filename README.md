@@ -15,3 +15,15 @@ Projects of Neural Networks Graduate Course under Supervision of Prof. Reza Safa
 
 ## project 3:
 ### Goal: getting familiar with RBF Neural Networks
+
+
+## project 4:
+### Goal: getting familiar with Convolutional Neural Network
+
+
+## project 5:
+### Goal: getting familiar with Transfer Learning
+
+
+## project 6:
+### Goal: getting familiar with Generative Adverserial Networks
