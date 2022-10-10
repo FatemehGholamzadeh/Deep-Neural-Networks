@@ -10,3 +10,8 @@ Projects of Neural Networks Graduate Course under Supervision of Prof. Reza Safa
 ### Goal: getting familiar with kohonen self organizing maps (SOM Neural Netwok)
 * in this project we illustrate rcv1 dataset with SOM (self-organizing map) and we plot a feature map for data.
 * in next step we cluster dataset using SOM and find purity for our clustering.
+
+
+
+## project 3:
+### Goal: getting familiar with RBF Neural Networks
